@@ -1,8 +1,6 @@
 ## Aquí pondría el título
 
-Esto solo es para ver si puedo actualizarlo
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hola, mi nombre es Emiliano Osuna y soy un joven entusiasta que está tratando de aprender a programar.
 
 ### Probando
 
