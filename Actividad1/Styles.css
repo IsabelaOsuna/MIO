@@ -1,5 +1,36 @@
 *{
-    padding: 0;
-    margin: 0;
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
+.content{
+    width: 100%;
+}
+.box{
+    width: 100%;
+    background: rosybrown;
+}
+.content{
+    width: 33.33%;
+    float: left;
+    padding: 10px;
+}
+.block{
+    border: 1px solid black;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    border: 1px solid black;
+    border-top: transparent;
+    border-right: transparent ;
+    width: 75px;
+    height: 35px;
+}
+.text{
+    clear: both;
+    padding: 10px;
+}
+
