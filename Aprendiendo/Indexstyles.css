@@ -10,7 +10,7 @@ body
 {
     margin: 0;
     padding: 0;
-    background: #114B5F;
+    background: linear-gradient(to right,#114B5F, #fff);
     min-height: 100vh;
 }
 .txt1
