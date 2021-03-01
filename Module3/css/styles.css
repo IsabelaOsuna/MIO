@@ -39,7 +39,6 @@ a.menu-item, a.menu-item:hover, a.menu-item:active, a.menu-item:visited{
     color: black;
 }
 section.container{
-    height: 1000px;
     background: turquoise;
     border: 1px solid black;
 }
