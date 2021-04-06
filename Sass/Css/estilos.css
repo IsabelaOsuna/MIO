@@ -1,4 +1,33 @@
-h1 {
-  color: salmon; }
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+* {
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'Poppins', sans-serif; }
+
+header {
+  background: cornflowerblue;
+  height: 100%;
+  width: 100%;
+  padding: 10px; }
+  header h1 {
+    color: crimson;
+    text-align: center;
+    justify-content: center;
+    align-items: center; }
+  header div {
+    background: yellowgreen;
+    margin: 0 10px 0 10px; }
+    header div ul {
+      display: flex;
+      justify-content: space-around;
+      list-style: none; }
+      header div ul li {
+        padding: 10px;
+        font-size: 25px;
+        font-weight: bold; }
+      header div ul li:hover {
+        color: white;
+        transition: 0.5s; }
 
 /*# sourceMappingURL=estilos.css.map */
