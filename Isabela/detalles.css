@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Poppins:wght@200;300&display=swap');
+*{
+    font-family: 'Poppins',sans-serif;
+}
+body{
+    background-color: #FFE4C4;
+    margin: 30px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Oswald';
+    text-align: center;
+    padding-top: 15px;
+    color:#7A512D;
+}
+h2{
+    color:#7A512D ;
+    font-size: 25px;
+}
+p{
+    font-size: 22px;
+}
+i{
+    color: #396DA0;
+}
+b{
+    color: #396DA0;
+}
+marquee{
+    color:#396DA0;
+    border-style: double;
+    border-color: black;
+}
+td{
+    text-align: center;
+    background-color: #FFEEDA;
+    border-color: transparent;
+}
+th{
+    text-align: center;
+    background-color:#BFAB93;
+    border-color: transparent;
+}
+img{
+    height: 55%;
+    width:  45%;
+    display:block;
+    margin:auto;
+}
+ul{
+    font-size: 20px;
+}
+.borde1{
+    border: 2px solid #396DA0;
+    padding: 10px 8px;
+}
+#borde2{
+    border: 2px dotted #396DA0;
+    padding: 10px 8px;
+}
+#borde3{
+    border: 5px double #396DA0;
+    padding: 10px 8px;
+}
+.borde4{
+    border: 2px dashed #396DA0;
+    padding: 10px 8px;
+}
+#borde5{
+    border: 4px inset #396DA0;
+    padding: 10px 8px;
+}
+#borde6{
+    border: 4px outset  #396DA0;s
+}
+

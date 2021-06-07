@@ -7,17 +7,19 @@
 }
 body{
     min-height: 100vh;
+    background-color: #FDEBD0;
 }
 header{
     padding: 20px;
-    background: cadetblue;
+    background:#FDEBD0;
     text-align: center;
 }
 nav{
-    background: coral;
+    background: #F0B27A;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    font-size: 22px;
 }
 nav a{
     text-decoration: none;
@@ -43,30 +45,31 @@ aside{
     display: flex;
     flex-wrap: wrap;
     flex: 20%;
-    background: rosybrown;
-    padding: 15px;
-    max-height: 100%;
+    background: #FDEBD0;
+    padding: 0;
+    height: 100%;
     overflow: hidden;
 }
 aside img{
     width: 100%;
-    height: auto;
+    height: 350px;
+    padding: 10px;
 }
 section{
     display: flex;
     flex-direction: row ;
     flex-wrap: wrap;
     flex: 80%;
-    background: #8DAA9D;
+    background: #FDEBD0;
     padding: 15px;
 }
 footer{
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
-    background: skyblue;
+    background: #F0B27A;
     height: 100%;
-    padding: 15px;
+    width: 100%;
+    padding: 20px;
 }
 #content{
     padding: 10px;
@@ -75,4 +78,15 @@ footer{
 }
 #content table{
     justify-content: center;
+}
+#contenido2{
+    background: #FDEBD0;
+    width: 100%;
+    padding: 45px;
+}
+#instagram{
+    background-color: cornflowerblue;
+    display: flex;
+    right: 0%;
+    left: 95%;
 }
